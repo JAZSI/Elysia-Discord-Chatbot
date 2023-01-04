@@ -1,4 +1,4 @@
-# Elysia Discord Chatbot
+<h1 align="center"> Elysia Discord Chatbot </h1>
 <p align="center">
 <img src="Elysia.jpg" alt="Elysia"width="200" height="200">
 </p>
